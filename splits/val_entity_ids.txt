@@ -1,0 +1,2 @@
+# One Source 1 entity_id per line — the validation split.
+# Owned by Vamsika. Everyone trains/validates against this exact file.
